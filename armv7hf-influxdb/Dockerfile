@@ -3,7 +3,7 @@
 FROM resin/armv7hf-debian
 MAINTAINER dbarrosop
 
-ENV INFLUXDB_VERSION 0.13.0
+ENV INFLUXDB_VERSION 1.2.0
 
 RUN gpg \
     --keyserver hkp://ha.pool.sks-keyservers.net \

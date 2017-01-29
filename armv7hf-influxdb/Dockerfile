@@ -1,7 +1,7 @@
 # Based on https://github.com/influxdata/influxdata-docker
 
 FROM resin/armv7hf-debian
-MAINTAINER dbarrosop
+MAINTAINER daywalker1180
 
 ENV INFLUXDB_VERSION 1.2.0
 
